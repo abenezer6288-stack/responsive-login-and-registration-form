@@ -3,10 +3,10 @@
 A modernized and redesigned version of a responsive login & registration form, originally by [Bedimcode](https://www.youtube.com/@Bedimcode).
 
 ### Desktop / Tablet
-![Desktop preview](assets/preview_desktop.png)
+![Desktop preview](preview_desktop.png)
 
 ### Mobile
-![Mobile preview](assets/preview_mobile.png)
+![Mobile preview](preview_mobile.png)
 
 ## What I improved
 
