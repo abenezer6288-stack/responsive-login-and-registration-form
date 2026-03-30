@@ -1,18 +1,38 @@
-# Responsive Login & Registration Form
-## [Watch it on youtube](https://youtu.be/dUkI8y_Mpv4)
-### Responsive Login & Registration Form
+# Modern Animated Login Page
 
-- Responsive Login & Registration Form Using HTML CSS And JavaScript
-- You can switch between signing in and creating an account.
-- Contains floating and fixed labels when writing the entry.
-- Contains an image cropped to a shape.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+A modernized and redesigned version of a responsive login & registration form, originally by [Bedimcode](https://www.youtube.com/@Bedimcode).
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+### Desktop / Tablet
+![Desktop preview](assets/img/preview-desktop.png)
 
-![preview img](/preview.png)
+### Mobile
+![Mobile preview](assets/img/preview-mobile.png)
 
-#እኛ-ግን-አለን
-#እነሱ-ጠፉ
-#እኛ-ግን-አለን
+## What I improved
+
+- Full dark theme with a deep space color palette
+- Animated particle network background with connecting lines
+- Floating glowing orbs with smooth CSS keyframe animations
+- Glassmorphism card with backdrop blur and subtle borders
+- Gradient animated login/register button with ripple effect on click
+- Floating input labels that animate on focus
+- Split layout — branding panel on the left, form on the right
+- Fully responsive: split view on tablet & desktop, full-screen card on mobile
+- Social login buttons with hover lift effect
+- Pulsing logo icon and ring animation on the branding panel
+
+## Built with
+
+- HTML5
+- CSS3 (custom properties, keyframes, glassmorphism, grid)
+- Vanilla JavaScript
+- [Remix Icons](https://remixicon.com/)
+- [Inter](https://fonts.google.com/specimen/Inter) font
+
+## Live Demo
+
+> Coming soon via GitHub Pages
+
+## Original project
+
+Based on the original tutorial by [Bedimcode](https://www.youtube.com/@Bedimcode) — [Watch on YouTube](https://youtu.be/dUkI8y_Mpv4)
